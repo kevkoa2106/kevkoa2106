@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Kevin 👋
 
-<!--
-**kevkoa2106/kevkoa2106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student exploring systems programming with Rust.
 
-Here are some ideas to get you started:
+## What I'm up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning Rust and building things with it
+- Working on [req](https://github.com/kevkoa2106/req)
+
+## Get in touch
+
+- Email: khoa210611@protonmail.com
+- Instagram: [@trankhoa69420](https://instagram.com/trankhoa69420)
