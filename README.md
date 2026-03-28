@@ -5,7 +5,6 @@ Student exploring systems programming with Rust.
 ## What I'm up to
 
 - Learning Rust and building things with it
-- Working on [req](https://github.com/kevkoa2106/req)
 
 ## Get in touch
 
