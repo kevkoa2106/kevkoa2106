@@ -1,10 +1,6 @@
-# Hey, I'm Kevin 👋
+# Hey, I'm Kevin/Khoa 👋
 
-Student exploring systems programming with Rust.
-
-## What I'm up to
-
-- Learning Rust and building things with it
+Student exploring Machine Learning with Python and C++.
 
 ## Get in touch
 
